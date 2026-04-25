@@ -7,5 +7,12 @@ It was somewhat difficult to get started on this project as I had no idea what a
 More information here:
 https://www.youtube.com/watch?v=IPGoKE3RIe8
 
+Usage:
+<img width="448" height="192" alt="image" src="https://github.com/user-attachments/assets/539dd216-97c7-4ac8-8e47-c05bcc29bd13" />
+
+
+Output: 
+<img width="562" height="318" alt="image" src="https://github.com/user-attachments/assets/2345ffb1-aa1c-4b37-88fa-769f4ac929ba" />
+
 
 
