@@ -1,5 +1,3 @@
-//Name: Imad Farhat
-//Homework 12: RPN calculator
 #include "Operands.h"
 
 Operand::~Operand()
